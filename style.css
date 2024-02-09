@@ -1,0 +1,15 @@
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    }
+    #btn{
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding:30px;
+    background-color: bisque;
+    border-radius: 10px 10px 10px 10px;
+    }
